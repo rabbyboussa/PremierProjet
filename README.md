@@ -1,1 +1,1 @@
-# PremierProjet
+Ce premier projet est un programme java qui affiche la table de multiplication d'un nombre saisi par l'utilisateur.
